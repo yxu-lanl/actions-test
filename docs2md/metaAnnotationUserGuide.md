@@ -45,8 +45,6 @@ format.
 
 ## Software Versions 
 
--   
-
 -   Conda
 
 -   tRNAscan-SE \>= 2.0
